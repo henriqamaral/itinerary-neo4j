@@ -1,6 +1,6 @@
 # ITINERARIES MICRO SERVICE
 
-Micro service connect to Neo4j DB to calculate the better routes.
+Micro service connect to Neo4j DB to calculate the shortest routes.
 
 # Technologies
 
