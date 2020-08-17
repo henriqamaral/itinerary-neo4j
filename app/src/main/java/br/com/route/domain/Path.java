@@ -1,6 +1,3 @@
-/*
- * Copyright (C) 2020 adidas AG.
- */
 
 package br.com.route.domain;
 

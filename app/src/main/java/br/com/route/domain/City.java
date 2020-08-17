@@ -1,6 +1,3 @@
-/*
- * Copyright (C) 2020 adidas AG.
- */
 
 package br.com.route.domain;
 
@@ -12,9 +9,7 @@ import org.neo4j.springframework.data.core.schema.Id;
 import org.neo4j.springframework.data.core.schema.Node;
 import org.neo4j.springframework.data.core.schema.Relationship;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 /**
